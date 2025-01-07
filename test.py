@@ -3,7 +3,7 @@ sayi1 = float(input("Birinci sayıyı girin: "))
 sayi2 = float(input("İkinci sayıyı girin: "))
 
 # Sayıları çarp
-carpim = sayi1 * sayi2
+toplam = sayi1 + sayi2
 
 # Sonucu ekrana yazdır
-print(f"Girdiğiniz sayıların çarpımı: {carpim}")
+print(f"Girdiğiniz sayıların toplamı: {toplam}")
